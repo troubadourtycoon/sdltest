@@ -1,0 +1,6 @@
+{
+	"name": "sdltest",
+	"dependencies": {
+        "derelict-sdl2": "~master"
+	}
+}
